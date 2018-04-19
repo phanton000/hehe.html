@@ -1,0 +1,47 @@
+<html>
+<h1>'Tis my schedule</h1>
+ <table width='100%' border=1px cellspacing=0>
+ <caption>Classes</caption>
+ <tr>
+     <th>Period</th>
+     <th>Teacher</th>
+     <th>Class</th>
+     <th>Time</th>
+ </tr>
+ <tr>
+     <td>1</td>
+     <td>Chan</td>
+     <td>Computer Science</td>
+     <td>7:20-8:10</td>
+ </tr>
+ <tr>
+     <td>2</td>
+     <td>Gibb</td>
+     <td>Microsoft IT</td>
+     <td>8:15-9:05</td>
+ </tr>
+ <tr>
+     <td>3</td>
+     <td>Heb</td>
+     <td>English</td>
+     <td>9:45-10:30</td>
+ </tr>
+ <tr>
+     <td>4</td>
+     <td>Ide</td>
+     <td>Marketing Essentials</td>
+     <td>10:35-11:25</td>
+ </tr>
+ <tr>
+     <td>5</td>
+     <td>Frost</td>
+     <td>Social Studies</td>
+     <td>12:05-12:55</td>
+</tr>
+<tr>
+    <td>6</td>
+    <td>Walsh</td>
+    <td>Algebra 2</td>
+    <td>1:00-1:55</td>
+ </tr>
+ </table>
